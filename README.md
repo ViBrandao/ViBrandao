@@ -1,6 +1,6 @@
 <h3>Hello, welcome to my GitHub page 👋</h3>
 
- <h4>I’m Vitor Lima Siqueira Brandão and I'm a full stack-developer. Passionate about tech and learn new stufs!</h4>
+ <h4>I’m Vitor Lima Siqueira Brandão and I'm a front-end developer. Passionate about tech and learn new stufs!</h4>
 
  <div>
   <a href="https://github.com/ViBrandao">
